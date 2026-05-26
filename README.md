@@ -1,5 +1,12 @@
 # Cafe-OS
 
+![Node.js 18+](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white)
+![Express.js Web Server](https://img.shields.io/badge/Express.js-Web%20Server-000000?logo=express&logoColor=white)
+![REST API JSON](https://img.shields.io/badge/REST%20API-JSON-02569B)
+![Realtime Monitoring](https://img.shields.io/badge/Realtime-Monitoring-1E90FF)
+![License MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)
+
 Cafe-OS is a coffee shop operating system built with Node.js, Express, SQLite, and Vanilla JavaScript. It combines a cashier workflow, table-based POI (Point of Interest) mapping, sales reporting, inventory tracking, admin tools, Excel export, and backup management in one local-first web application.
 
 > Note: the current codebase still uses the older product name `POI Coffee` in some file names, database files, package metadata, and UI labels. This README documents the project as **Cafe-OS** while staying accurate to the existing implementation.
