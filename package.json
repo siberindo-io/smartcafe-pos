@@ -1,0 +1,30 @@
+{
+  "name": "poi-coffee-web",
+  "version": "1.0.0",
+  "description": "POI Coffee Shop POS & POI System - local Node.js web app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed:dummy": "node scripts/seed-dummy-data.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "pos",
+    "coffee",
+    "nodejs",
+    "dashboard"
+  ],
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "xlsx": "^0.18.5"
+  },
+  "author": "",
+  "license": "MIT"
+}
